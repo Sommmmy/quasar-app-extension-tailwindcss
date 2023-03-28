@@ -33,6 +33,6 @@
     "autoprefixer": "^9.8.6",
     "inquirer": "^7.0.0",
     "postcss": "^7.0.35",
-    "tailwindcss": "git+https://github.com/Sommmmy/tailwindcss.git"
+    "tailwindcss": "git+https://github.com/Sommmmy/compat7-but-like-for-real.git"
   }
 }
